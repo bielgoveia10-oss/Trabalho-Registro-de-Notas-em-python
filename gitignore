@@ -1,0 +1,15 @@
+# Arquivo de dados gerado automaticamente pelo programa
+dados/registro.txt
+
+# Cache do Python (gerado ao executar o programa)
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais (caso use venv)
+venv/
+.env/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
